@@ -5,7 +5,6 @@ import { Welcome } from '../pages/Welcome';
 import { Confirmation } from '../pages/Confirmation';
 import { UserIdentification } from '../pages/UserIdentification'
 
-import color from '../styles/colors';
 import colors from '../styles/colors';
 
 
